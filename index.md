@@ -1,1 +1,1 @@
-Placeholder for .NET Interactive site docs 
+Placeholder for .NET Interactive docs
